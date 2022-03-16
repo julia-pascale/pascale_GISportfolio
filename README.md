@@ -1,1 +1,1 @@
-[in-class tutorial on basemaps](/class_tutorial.html)
+[in-class tutorial on basemaps](/pascale_GISportfolio/class_tutorial.html)
