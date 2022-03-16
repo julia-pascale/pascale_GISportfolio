@@ -6,9 +6,9 @@ Hi! I’m Julia. I am in Pittsburgh, where I have lived since I graduated from c
 
 ## what I hope to learn
 
-I'm looking forward to practicing my GIS skills in this course! I like making data visualizations that look cool and help people process important information quickly. When I graduate I want to use these skills to inform advocacy and decision-making for governments and mission-based organizations.
+I'm looking forward to practicing and further developing my GIS skills in this course. I like making maps and other data visualizations that look cool and help people process important information quickly. When I graduate I want to use these skills to inform advocacy and decision-making for governments and mission-based organizations.
 
 ## portfolio
-Here is some of my work! <br>
+Here is some of my work. <br>
 
 [in-class tutorial on basemaps](/pascale_GISportfolio/class_tutorial.html)
