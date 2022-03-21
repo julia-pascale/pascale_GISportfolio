@@ -4,7 +4,7 @@ For this assignment, I chose to work on a map for Troy Hill Citizens, Inc., the 
 
 And here is the color scheme:
 
-I embedded the map [here](/pascale_GISportfolio/google_map_thc.html)
+I embedded the map [here](/pascale_GISportfolio/google_map_style_thc.html)
 
 [
   {
