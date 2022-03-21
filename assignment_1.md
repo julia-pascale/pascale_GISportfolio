@@ -1,6 +1,6 @@
 ## Assignment 1 - creating a custom Google Map for a nonprofit
 
-For this assignment, I chose to work on a map for Troy Hill Citizens, Inc., the community group for my neighborhood. This organization is important to me because I am on the board, and I love working with the group to invest in our community. The map coordinates with this photo, which is a mural in the middle of the neighborhood:
+For this assignment, I chose to work on a map for Troy Hill Citizens, Inc., the community group for my neighborhood. This organization is important to me because I am on the board, and I love working with the group to support our community's safety and our neighbors' wellbeing. The map coordinates with this photo, which is a mural in the middle of the neighborhood:
 
 And here is the color scheme:
 
