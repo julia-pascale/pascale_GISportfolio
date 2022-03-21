@@ -12,3 +12,5 @@ I'm looking forward to practicing and further developing my GIS skills in this c
 Here is some of my work. <br>
 
 [in-class tutorial on basemaps](/pascale_GISportfolio/class_tutorial.html)
+
+[assignment 1: creating a custom google maps color palette for a nonprofit](https://julia-pascale.github.io/pascale_GISportfolio/assignment_1.html)
