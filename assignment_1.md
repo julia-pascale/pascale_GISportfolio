@@ -8,7 +8,7 @@ And here is the color scheme:
 
 I embedded the map [here](https://julia-pascale.github.io/pascale_GISportfolio/google_map_style_THC.html)
 
-
+[return to portfolio home](https://julia-pascale.github.io/pascale_GISportfolio/)
 ## code sample
 Here is my JSON code sample:
 
