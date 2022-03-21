@@ -9,14 +9,12 @@ And here is the color scheme:
 I embedded the map [here](https://julia-pascale.github.io/pascale_GISportfolio/troy_hill_map.html)
 
 
-## code samples
-Here are my code samples
+## code sample
+Here is my JSON code sample:
 
- <html>
-          <head>
             
-  [
-  {
+          [
+            {
     "elementType": "geometry",
     "stylers": [
       {
