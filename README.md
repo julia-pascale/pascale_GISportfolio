@@ -15,4 +15,6 @@ Here is some of my work. <br>
 
 [in-class tutorial on ArcGIS Insights](/pascale_GISportfolio/class_tutorial_insights.html)
 
+[second in-class tutorial on ArcGIS Insights](/pascale_GISportfolio/class_tutorial_insights_2.html)
+
 [assignment 1: creating a custom google maps color palette for a nonprofit](https://julia-pascale.github.io/pascale_GISportfolio/assignment_1.html)
