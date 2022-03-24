@@ -18,3 +18,5 @@ Here is some of my work. <br>
 [second in-class tutorial on ArcGIS Insights](/pascale_GISportfolio/class_tutorial_insights_2.html)
 
 [assignment 1: creating a custom google maps color palette for a nonprofit](https://julia-pascale.github.io/pascale_GISportfolio/assignment_1.html)
+
+[Insights dashboard of crime maps in Richmond, VA neighborhoods](/pascale_GISportfolio/richmond_crimes.html)
