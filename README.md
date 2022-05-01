@@ -20,3 +20,5 @@ Here is some of my work. <br>
 [assignment 1: creating a custom google maps color palette for a nonprofit](https://julia-pascale.github.io/pascale_GISportfolio/assignment_1.html)
 
 [Insights dashboard of crime maps in Richmond, VA neighborhoods](/pascale_GISportfolio/richmond_crimes.html)
+
+[Final project on LGBT Economic Opportunities](/pascale_GISportfolio/final_project.html)
